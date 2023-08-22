@@ -1,0 +1,86 @@
+[
+  {
+    "arguments": [
+      "/opt/microchip/xc32/v4.30/bin/xc32-gcc",
+      "-std=c11",
+      "-fno-common",
+      "-D__32MX795F512L__",
+      "-Iinclude",
+      "-isystem",
+      "/opt/microchip/xc32/v4.30/pic32mx/include",
+      "-D__LANGUAGE_C__",
+      "-Wa,--defsym=__MPLAB_BUILD=1,--gdwarf-2",
+      "-g",
+      "-c",
+      "-o",
+      "build/objs/init.c.o",
+      "src/init.c"
+    ],
+    "directory": "/home/cyl/373Code/lab4",
+    "file": "/home/cyl/373Code/lab4/src/init.c",
+    "output": "/home/cyl/373Code/lab4/build/objs/init.c.o"
+  },
+  {
+    "arguments": [
+      "/opt/microchip/xc32/v4.30/bin/xc32-gcc",
+      "-std=c11",
+      "-fno-common",
+      "-D__32MX795F512L__",
+      "-Iinclude",
+      "-isystem",
+      "/opt/microchip/xc32/v4.30/pic32mx/include",
+      "-D__LANGUAGE_C__",
+      "-Wa,--defsym=__MPLAB_BUILD=1,--gdwarf-2",
+      "-g",
+      "-c",
+      "-o",
+      "build/objs/main.c.o",
+      "src/main.c"
+    ],
+    "directory": "/home/cyl/373Code/lab4",
+    "file": "/home/cyl/373Code/lab4/src/main.c",
+    "output": "/home/cyl/373Code/lab4/build/objs/main.c.o"
+  },
+  {
+    "arguments": [
+      "/opt/microchip/xc32/v4.30/bin/xc32-gcc",
+      "-std=c11",
+      "-fno-common",
+      "-D__32MX795F512L__",
+      "-Iinclude",
+      "-isystem",
+      "/opt/microchip/xc32/v4.30/pic32mx/include",
+      "-D__LANGUAGE_C__",
+      "-Wa,--defsym=__MPLAB_BUILD=1,--gdwarf-2",
+      "-g",
+      "-c",
+      "-o",
+      "build/objs/OC.c.o",
+      "src/OC.c"
+    ],
+    "directory": "/home/cyl/373Code/lab4",
+    "file": "/home/cyl/373Code/lab4/src/OC.c",
+    "output": "/home/cyl/373Code/lab4/build/objs/OC.c.o"
+  },
+  {
+    "arguments": [
+      "/opt/microchip/xc32/v4.30/bin/xc32-gcc",
+      "-std=c11",
+      "-fno-common",
+      "-D__32MX795F512L__",
+      "-Iinclude",
+      "-isystem",
+      "/opt/microchip/xc32/v4.30/pic32mx/include",
+      "-D__LANGUAGE_C__",
+      "-Wa,--defsym=__MPLAB_BUILD=1,--gdwarf-2",
+      "-g",
+      "-c",
+      "-o",
+      "build/objs/Timer.c.o",
+      "src/Timer.c"
+    ],
+    "directory": "/home/cyl/373Code/lab4",
+    "file": "/home/cyl/373Code/lab4/src/Timer.c",
+    "output": "/home/cyl/373Code/lab4/build/objs/Timer.c.o"
+  }
+]

@@ -1,0 +1,254 @@
+[
+  {
+    "arguments": [
+      "/opt/microchip/xc32/v4.30/bin/xc32-gcc",
+      "-std=c11",
+      "-fno-common",
+      "-D__32MX795F512L__",
+      "-Iinclude",
+      "-isystem",
+      "/opt/microchip/xc32/v4.30/pic32mx/include",
+      "-D__LANGUAGE_C__",
+      "-Wa,--defsym=__MPLAB_BUILD=1,--gdwarf-2",
+      "-g",
+      "-c",
+      "-o",
+      "build/objs/ADC.c.o",
+      "src/ADC.c"
+    ],
+    "directory": "/home/cyl/373Code/Project",
+    "file": "/home/cyl/373Code/Project/src/ADC.c",
+    "output": "/home/cyl/373Code/Project/build/objs/ADC.c.o"
+  },
+  {
+    "arguments": [
+      "/opt/microchip/xc32/v4.30/bin/xc32-gcc",
+      "-std=c11",
+      "-fno-common",
+      "-D__32MX795F512L__",
+      "-Iinclude",
+      "-isystem",
+      "/opt/microchip/xc32/v4.30/pic32mx/include",
+      "-D__LANGUAGE_C__",
+      "-Wa,--defsym=__MPLAB_BUILD=1,--gdwarf-2",
+      "-g",
+      "-c",
+      "-o",
+      "build/objs/global.c.o",
+      "src/global.c"
+    ],
+    "directory": "/home/cyl/373Code/Project",
+    "file": "/home/cyl/373Code/Project/src/global.c",
+    "output": "/home/cyl/373Code/Project/build/objs/global.c.o"
+  },
+  {
+    "arguments": [
+      "/opt/microchip/xc32/v4.30/bin/xc32-gcc",
+      "-std=c11",
+      "-fno-common",
+      "-D__32MX795F512L__",
+      "-Iinclude",
+      "-isystem",
+      "/opt/microchip/xc32/v4.30/pic32mx/include",
+      "-D__LANGUAGE_C__",
+      "-Wa,--defsym=__MPLAB_BUILD=1,--gdwarf-2",
+      "-g",
+      "-c",
+      "-o",
+      "build/objs/HF_IPS.c.o",
+      "src/HF_IPS.c"
+    ],
+    "directory": "/home/cyl/373Code/Project",
+    "file": "/home/cyl/373Code/Project/src/HF_IPS.c",
+    "output": "/home/cyl/373Code/Project/build/objs/HF_IPS.c.o"
+  },
+  {
+    "arguments": [
+      "/opt/microchip/xc32/v4.30/bin/xc32-gcc",
+      "-std=c11",
+      "-fno-common",
+      "-D__32MX795F512L__",
+      "-Iinclude",
+      "-isystem",
+      "/opt/microchip/xc32/v4.30/pic32mx/include",
+      "-D__LANGUAGE_C__",
+      "-Wa,--defsym=__MPLAB_BUILD=1,--gdwarf-2",
+      "-g",
+      "-c",
+      "-o",
+      "build/objs/init.c.o",
+      "src/init.c"
+    ],
+    "directory": "/home/cyl/373Code/Project",
+    "file": "/home/cyl/373Code/Project/src/init.c",
+    "output": "/home/cyl/373Code/Project/build/objs/init.c.o"
+  },
+  {
+    "arguments": [
+      "/opt/microchip/xc32/v4.30/bin/xc32-gcc",
+      "-std=c11",
+      "-fno-common",
+      "-D__32MX795F512L__",
+      "-Iinclude",
+      "-isystem",
+      "/opt/microchip/xc32/v4.30/pic32mx/include",
+      "-D__LANGUAGE_C__",
+      "-Wa,--defsym=__MPLAB_BUILD=1,--gdwarf-2",
+      "-g",
+      "-c",
+      "-o",
+      "build/objs/main.c.o",
+      "src/main.c"
+    ],
+    "directory": "/home/cyl/373Code/Project",
+    "file": "/home/cyl/373Code/Project/src/main.c",
+    "output": "/home/cyl/373Code/Project/build/objs/main.c.o"
+  },
+  {
+    "arguments": [
+      "/opt/microchip/xc32/v4.30/bin/xc32-gcc",
+      "-std=c11",
+      "-fno-common",
+      "-D__32MX795F512L__",
+      "-Iinclude",
+      "-isystem",
+      "/opt/microchip/xc32/v4.30/pic32mx/include",
+      "-D__LANGUAGE_C__",
+      "-Wa,--defsym=__MPLAB_BUILD=1,--gdwarf-2",
+      "-g",
+      "-c",
+      "-o",
+      "build/objs/OC.c.o",
+      "src/OC.c"
+    ],
+    "directory": "/home/cyl/373Code/Project",
+    "file": "/home/cyl/373Code/Project/src/OC.c",
+    "output": "/home/cyl/373Code/Project/build/objs/OC.c.o"
+  },
+  {
+    "arguments": [
+      "/opt/microchip/xc32/v4.30/bin/xc32-gcc",
+      "-std=c11",
+      "-fno-common",
+      "-D__32MX795F512L__",
+      "-Iinclude",
+      "-isystem",
+      "/opt/microchip/xc32/v4.30/pic32mx/include",
+      "-D__LANGUAGE_C__",
+      "-Wa,--defsym=__MPLAB_BUILD=1,--gdwarf-2",
+      "-g",
+      "-c",
+      "-o",
+      "build/objs/Radar.c.o",
+      "src/Radar.c"
+    ],
+    "directory": "/home/cyl/373Code/Project",
+    "file": "/home/cyl/373Code/Project/src/Radar.c",
+    "output": "/home/cyl/373Code/Project/build/objs/Radar.c.o"
+  },
+  {
+    "arguments": [
+      "/opt/microchip/xc32/v4.30/bin/xc32-gcc",
+      "-std=c11",
+      "-fno-common",
+      "-D__32MX795F512L__",
+      "-Iinclude",
+      "-isystem",
+      "/opt/microchip/xc32/v4.30/pic32mx/include",
+      "-D__LANGUAGE_C__",
+      "-Wa,--defsym=__MPLAB_BUILD=1,--gdwarf-2",
+      "-g",
+      "-c",
+      "-o",
+      "build/objs/Servo.c.o",
+      "src/Servo.c"
+    ],
+    "directory": "/home/cyl/373Code/Project",
+    "file": "/home/cyl/373Code/Project/src/Servo.c",
+    "output": "/home/cyl/373Code/Project/build/objs/Servo.c.o"
+  },
+  {
+    "arguments": [
+      "/opt/microchip/xc32/v4.30/bin/xc32-gcc",
+      "-std=c11",
+      "-fno-common",
+      "-D__32MX795F512L__",
+      "-Iinclude",
+      "-isystem",
+      "/opt/microchip/xc32/v4.30/pic32mx/include",
+      "-D__LANGUAGE_C__",
+      "-Wa,--defsym=__MPLAB_BUILD=1,--gdwarf-2",
+      "-g",
+      "-c",
+      "-o",
+      "build/objs/SPI.c.o",
+      "src/SPI.c"
+    ],
+    "directory": "/home/cyl/373Code/Project",
+    "file": "/home/cyl/373Code/Project/src/SPI.c",
+    "output": "/home/cyl/373Code/Project/build/objs/SPI.c.o"
+  },
+  {
+    "arguments": [
+      "/opt/microchip/xc32/v4.30/bin/xc32-gcc",
+      "-std=c11",
+      "-fno-common",
+      "-D__32MX795F512L__",
+      "-Iinclude",
+      "-isystem",
+      "/opt/microchip/xc32/v4.30/pic32mx/include",
+      "-D__LANGUAGE_C__",
+      "-Wa,--defsym=__MPLAB_BUILD=1,--gdwarf-2",
+      "-g",
+      "-c",
+      "-o",
+      "build/objs/TFT.c.o",
+      "src/TFT.c"
+    ],
+    "directory": "/home/cyl/373Code/Project",
+    "file": "/home/cyl/373Code/Project/src/TFT.c",
+    "output": "/home/cyl/373Code/Project/build/objs/TFT.c.o"
+  },
+  {
+    "arguments": [
+      "/opt/microchip/xc32/v4.30/bin/xc32-gcc",
+      "-std=c11",
+      "-fno-common",
+      "-D__32MX795F512L__",
+      "-Iinclude",
+      "-isystem",
+      "/opt/microchip/xc32/v4.30/pic32mx/include",
+      "-D__LANGUAGE_C__",
+      "-Wa,--defsym=__MPLAB_BUILD=1,--gdwarf-2",
+      "-g",
+      "-c",
+      "-o",
+      "build/objs/Timer.c.o",
+      "src/Timer.c"
+    ],
+    "directory": "/home/cyl/373Code/Project",
+    "file": "/home/cyl/373Code/Project/src/Timer.c",
+    "output": "/home/cyl/373Code/Project/build/objs/Timer.c.o"
+  },
+  {
+    "arguments": [
+      "/opt/microchip/xc32/v4.30/bin/xc32-gcc",
+      "-std=c11",
+      "-fno-common",
+      "-D__32MX795F512L__",
+      "-Iinclude",
+      "-isystem",
+      "/opt/microchip/xc32/v4.30/pic32mx/include",
+      "-D__LANGUAGE_C__",
+      "-Wa,--defsym=__MPLAB_BUILD=1,--gdwarf-2",
+      "-g",
+      "-c",
+      "-o",
+      "build/objs/UART.c.o",
+      "src/UART.c"
+    ],
+    "directory": "/home/cyl/373Code/Project",
+    "file": "/home/cyl/373Code/Project/src/UART.c",
+    "output": "/home/cyl/373Code/Project/build/objs/UART.c.o"
+  }
+]
